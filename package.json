@@ -1,0 +1,12 @@
+{
+  "name": "@ndequeker/bb-build-plugin-sass-fast",
+  "version": "0.0.1",
+  "description": "Sass/css plugin for BB Config",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^0.25.0",
+    "node-sass": "^3.10.1",
+    "sass-loader": "^4.0.2",
+    "style-loader": "^0.13.1"
+  }
+}
