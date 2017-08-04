@@ -1,5 +1,5 @@
 {
-  "name": "@ndequeker/bb-build-plugin-sass-fast",
+  "name": "@voles/bb-build-plugin-sass-fast",
   "version": "0.0.1",
   "description": "Sass/css plugin for BB Config",
   "main": "index.js",
